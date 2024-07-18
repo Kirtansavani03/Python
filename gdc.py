@@ -1,3 +1,5 @@
+#Write a program to find GCD of two numbers. 
+
 def gdc(num1,num2):
     gdc=1
     for i in range(1,min(num1,num2)):

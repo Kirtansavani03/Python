@@ -1,3 +1,5 @@
+#Write a program for find factorial of a given number using iterative and recursive function. 
+
 def factorial(x):
     fact = 1
     for i in range (1,n+1):

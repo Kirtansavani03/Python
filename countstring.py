@@ -1,3 +1,5 @@
+#Write a program which takes a sentence from user and calculates number of digits, letters, uppercase letters, lowercase letter and spaces in sentence. 
+ 
 def countstring(string):
     lower=0
     upper=0

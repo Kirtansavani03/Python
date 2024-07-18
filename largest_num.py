@@ -1,3 +1,5 @@
+#Write a program to find the maximum number out of 3 numbers.
+
 print("largest number")
 def largest(a,b,c):
     if(a>b and a>c):
