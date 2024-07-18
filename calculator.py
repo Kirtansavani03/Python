@@ -20,7 +20,3 @@ elif choice == 3:
     print("The result is:",multiplication(num1,num2))
 elif choice == 4:
     print("The result is:",division(num1,num2))
-    
-
-
-

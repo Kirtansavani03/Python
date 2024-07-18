@@ -13,4 +13,3 @@ def factorialr(n):
     else:
         return n*factorialr(n-1)
 print("The factorial of",n,"using recursive function is",factorial(n))
-
